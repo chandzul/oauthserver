@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"mount_options":["dmode=777","fmode=777"],"guestpath":"/var/www","hostpath":"C:/boxes/oauth2/server.app","disabled":false,"__vagrantfile":true}}}
